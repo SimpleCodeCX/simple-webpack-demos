@@ -1,4 +1,4 @@
-## demo18 webpack-dev-server ( 开发模式 )
+## demo18 webpack-dev-server (开发模式)
 
 ### 1.development vs production
 development 模式:

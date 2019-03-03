@@ -1,4 +1,4 @@
-## demo14 webpack mini-css-extract-plugin+SplitChunksPlugin处理css和scss
+## demo14 webpack mini-css-extract-plugin + SplitChunksPlugin 处理 css 和 scss
 
 ### 1.关于 mini-css-extract-plugin
 虽然webpack4不支持 `ExtractTextWebpackPlugin` 插件，但是我们可以使用 `mini-css-extract-plugin` 来实现把 css 提取为单独的文件。
