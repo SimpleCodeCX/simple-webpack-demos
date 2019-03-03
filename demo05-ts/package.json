@@ -1,0 +1,19 @@
+{
+  "name": "demo05",
+  "version": "1.0.0",
+  "description": "demo05",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "typescript"
+  ],
+  "author": "Simple",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.3.3333"
+  }
+}

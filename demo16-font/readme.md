@@ -1,0 +1,1 @@
+url-loader + mini-css-extract-plugin

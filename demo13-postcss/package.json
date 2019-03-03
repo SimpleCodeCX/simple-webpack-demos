@@ -1,0 +1,15 @@
+{
+  "name": "demo13",
+  "version": "1.0.0",
+  "description": "webpack postcss-loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "postcss-loader"
+  ],
+  "author": "Simple",
+  "license": "ISC"
+}

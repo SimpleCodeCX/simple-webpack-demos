@@ -1,0 +1,11 @@
+.icons-box {
+  width: 500px;
+  height: 100px;
+  margin: auto;
+  margin-top: 180px;
+}
+
+.icons-box i {
+  font-size: 100px;
+  margin-left: 20px;
+}

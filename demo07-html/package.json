@@ -1,0 +1,21 @@
+{
+  "name": "demo07",
+  "version": "1.0.0",
+  "description": "webpack HtmlWebpackPlugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "HtmlWebpackPlugin"
+  ],
+  "author": "Simple",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^2.1.0",
+    "html-webpack-plugin": "^3.2.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.29.5"
+  }
+}

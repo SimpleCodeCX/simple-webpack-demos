@@ -1,0 +1,23 @@
+{
+  "name": "demo04",
+  "version": "1.0.0",
+  "description": "webpack babel7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "babel7"
+  ],
+  "author": "Simple",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/polyfill": "^7.2.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "babel-loader": "^8.0.5"
+  }
+}

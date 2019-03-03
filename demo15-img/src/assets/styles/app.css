@@ -1,0 +1,22 @@
+*,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container div{
+  width:200px;
+  height: 200px; 
+  float: left;
+}
+.div1{
+  background: url("../imgs/1.png") no-repeat;
+}
+
+.div2{
+  background: url("../imgs/2.png") no-repeat;
+}
+
+.div3{
+  background: url("../imgs/3.png") no-repeat;
+}
