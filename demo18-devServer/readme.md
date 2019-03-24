@@ -70,7 +70,7 @@ npm install -D html-webpack-plugin clean-webpack-plugin
 
 ```javascript
 // `--` 代表目录， `-` 代表文件
-  --demo14 font
+  --demo18
     --src
       --assets
         --fonts

@@ -93,4 +93,6 @@ demo17: [demo17 clean-webpack-plugin (清除模式)](https://github.com/SimpleCo
 
 demo18: [webpack-dev-server (开发模式)](https://github.com/SimpleCodeCX/simple-webpack-demos/tree/master/demo18-devServer)
 
+demo19: [webpack 开发模式和生产模式](https://github.com/SimpleCodeCX/simple-webpack-demos/tree/master/demo19-dev-prod)
+
 

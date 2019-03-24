@@ -30,11 +30,11 @@ npm install -D css-loader style-loader
 npm install -D html-webpack-plugin webpack 
 ```
 
-### 4.目录机构
+### 4.目录结构
 
 ```javascript
 // `--` 代表目录， `-` 代表文件
-  --demo16 clean
+  --demo17
     --src
       -app.js
       -style.css      

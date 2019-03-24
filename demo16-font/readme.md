@@ -80,7 +80,7 @@ npm install -D webpack // html-webpack-plugin、mini-css-extract-plugin 依赖�
 
 ```javascript
 // `--` 代表目录， `-` 代表文件
-  --demo14 font
+  --demo16
     --src
       --assets
         --fonts
