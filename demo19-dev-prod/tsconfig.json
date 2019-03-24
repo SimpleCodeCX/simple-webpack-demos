@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "allowJs": true,
+    "lib": [
+      "dom",
+      "es5",
+      "es6",
+      "es7",
+      "es2018",
+      "es2015.promise"
+    ],
+  },
+  "include": [
+    "./src/app/*"
+  ],
+  "exclude": [
+    "./node_modules"
+  ]
+}

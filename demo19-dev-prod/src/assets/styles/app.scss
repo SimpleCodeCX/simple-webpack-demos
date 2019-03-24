@@ -1,0 +1,104 @@
+@import "./loading.scss";
+html body {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+body {
+  margin: 0 0;
+  overflow: hidden;
+}
+iframe {
+  width: 100%;
+  height: 100%;
+  border-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+.swiper-container {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  width: 100%;
+  height: 100%;
+}
+
+.imgMe {
+  width: 100%;
+  height: 100%;
+  background: url("../images/me.jpg");
+  background-size: contain;
+}
+
+.imgs-box-description {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 100px;
+}
+.imgs-box {
+  width: 700px;
+  height: 100px;
+  margin: auto;
+  margin-top: 70px;
+  .div-img {
+    width: 200px;
+    height: 200px;
+    float: left;
+  }
+  .img1 {
+    background: url("../images/1.png") no-repeat;
+  }
+
+  .img2 {
+    background: url("../images/2.png") no-repeat;
+  }
+
+  .img3 {
+    transform: all 1s;
+    background: url("../images/3.png") no-repeat;
+  }
+}
+
+.icons-box-description {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 100px;
+}
+.icons-box {
+  width: 500px;
+  height: 100px;
+  margin: auto;
+  margin-top: 70px;
+  i {
+    font-size: 100px;
+    margin-left: 20px;
+  }
+}
+
+.loading-box {
+  position: relative;
+  margin: 0 auto;
+  width: 120px;
+  height: 120px;
+  margin-top: 250px;
+
+  span {
+    display: inline-block;
+    position: absolute;
+    left: 52px;
+    width: 19px;
+    height: 19px;
+    border-radius: 50%;
+    background: #888888;
+    $spanLength: 8; // span个数
+    $animationTime: 1.04; // 完成一次动画所花费的时间,单位:s
+    $x: 8px; // 旋转圆心横坐标
+    $y: 60px; // 旋转圆心纵坐标
+
+    @include ngo-circle-loading($x, $y, $spanLength, $animationTime);
+  }
+}
