@@ -251,3 +251,8 @@ webpack
 
 
 把 `limit` 改成 `5000` 试试? 
+
+### 9.源码地址
+demo 代码地址: https://github.com/SimpleCodeCX/simple-webpack-demos/tree/master/demo16-font
+
+仓库代码地址(及目录): https://github.com/SimpleCodeCX/simple-webpack-demos

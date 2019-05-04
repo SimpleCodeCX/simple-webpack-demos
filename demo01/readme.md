@@ -63,3 +63,8 @@ node dist/main.js
   >在没有指定 webpack 的打包模式时，webpack 默认使用 production 模式进行打包，因此会对代码进行压缩。
   
   >试试这个: webpack ./src/index.js --mode development
+
+### 6.源码地址
+demo 代码地址: https://github.com/SimpleCodeCX/simple-webpack-demos/tree/master/demo01
+
+仓库代码地址(及目录): https://github.com/SimpleCodeCX/simple-webpack-demos

@@ -250,7 +250,10 @@ modules~app2~module3.chunk.js
 runtime.bundle.js ( webpack 运行时模块)
 ```
 
+### 8.源码地址
+demo 代码地址: https://github.com/SimpleCodeCX/simple-webpack-demos/tree/master/demo08-SplitChunksPlugin
 
+仓库代码地址(及目录): https://github.com/SimpleCodeCX/simple-webpack-demos
 
 
 

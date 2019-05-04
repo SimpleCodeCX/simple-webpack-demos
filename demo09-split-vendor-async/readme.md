@@ -216,3 +216,8 @@ vendors.a83c085b3a7ac03b1b47.chunk.js (第三方依赖模块)
 > 在浏览器运行 dist/index.html，打开控制台可以观察异步加载模块的效果。
 
 >（备注：runtime.xxxxxxxx.bundle.js模块包含了对异步加载模块的引用逻辑，此外，异步加载引用的相对路径受 `output -> publicPath` 配置的影响）
+
+### 7.源码地址
+demo 代码地址: https://github.com/SimpleCodeCX/simple-webpack-demos/tree/master/demo09-split-vendor-async
+
+仓库代码地址(及目录): https://github.com/SimpleCodeCX/simple-webpack-demos

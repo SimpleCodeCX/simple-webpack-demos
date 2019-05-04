@@ -239,3 +239,8 @@ npm run dev
 ```
 
 运行成功后，会自动打开浏览器并显示 index.html 页面，修改 css 或 js 代码后，浏览器会自动刷新。
+
+### 8.源码地址
+demo 代码地址: https://github.com/SimpleCodeCX/simple-webpack-demos/tree/master/demo18-devServer
+
+仓库代码地址(及目录): https://github.com/SimpleCodeCX/simple-webpack-demos

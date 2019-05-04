@@ -216,3 +216,8 @@ true
 1
 {name: "simple", age: "25", hobby: "play the guitar"}
 ```
+
+### 10.源码地址
+demo 代码地址: https://github.com/SimpleCodeCX/simple-webpack-demos/tree/master/demo06-babel-ts
+
+仓库代码地址(及目录): https://github.com/SimpleCodeCX/simple-webpack-demos

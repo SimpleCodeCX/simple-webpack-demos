@@ -239,3 +239,8 @@ webpack
 
 
 把 `limit` 改成 `15257` (<14.9KB) 试试? 
+
+### 9.源码地址
+demo 代码地址: https://github.com/SimpleCodeCX/simple-webpack-demos/tree/master/demo15-img
+
+仓库代码地址(及目录): https://github.com/SimpleCodeCX/simple-webpack-demos

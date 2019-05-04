@@ -72,3 +72,8 @@ node dist/app.bundle.js
 
 
 结果输出：hello world!
+
+### 6.源码地址
+demo 代码地址: https://github.com/SimpleCodeCX/simple-webpack-demos/tree/master/demo02-config
+
+仓库代码地址(及目录): https://github.com/SimpleCodeCX/simple-webpack-demos

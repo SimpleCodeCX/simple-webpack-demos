@@ -1,3 +1,4 @@
+## demo19 webpack 开发模式和生产模式
 ### 1.开发环境和生产环境的 webpack 配置
 开发环境和生产环境的构建目标是有很大的不同的。
 
@@ -279,3 +280,7 @@ npm run dev
 npm run prod
 ```
 
+### 7.源码地址
+demo 代码地址: https://github.com/SimpleCodeCX/simple-webpack-demos/tree/master/demo19-dev-prod
+
+仓库代码地址(及目录): https://github.com/SimpleCodeCX/simple-webpack-demos

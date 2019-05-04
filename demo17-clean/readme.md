@@ -112,3 +112,8 @@ webpack
 ### 7.验证打包结果
 
 每次进行 webpack 打包都会先清除 dist 目录
+
+### 8.源码地址
+demo 代码地址: https://github.com/SimpleCodeCX/simple-webpack-demos/tree/master/demo17-clean
+
+仓库代码地址(及目录): https://github.com/SimpleCodeCX/simple-webpack-demos

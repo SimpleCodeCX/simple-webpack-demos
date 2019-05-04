@@ -141,3 +141,7 @@ webpack
 {name: "simple", age: "25", hobby: "play the guitar"}
 ```
 
+### 8.源码地址
+demo 代码地址: https://github.com/SimpleCodeCX/simple-webpack-demos/tree/master/demo05-ts
+
+仓库代码地址(及目录): https://github.com/SimpleCodeCX/simple-webpack-demos

@@ -159,6 +159,10 @@ true
 ```
 
 
+### 8.源码地址
+demo 代码地址: https://github.com/SimpleCodeCX/simple-webpack-demos/tree/master/demo04-babel7
+
+仓库代码地址(及目录): https://github.com/SimpleCodeCX/simple-webpack-demos
 
 
 

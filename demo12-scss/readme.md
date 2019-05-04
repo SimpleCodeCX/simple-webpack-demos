@@ -144,3 +144,7 @@ webpack
 
 在 <link> 模式下，会发现 scss 文件被转化 css 文件，并以 `<link>` 的方式引用在 `<head>` 中。
 
+### 7.源码地址
+demo 代码地址: https://github.com/SimpleCodeCX/simple-webpack-demos/tree/master/demo12-scss
+
+仓库代码地址(及目录): https://github.com/SimpleCodeCX/simple-webpack-demos

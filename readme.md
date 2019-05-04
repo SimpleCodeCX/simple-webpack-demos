@@ -96,3 +96,11 @@ demo18: [webpack-dev-server (开发模式)](https://github.com/SimpleCodeCX/simp
 demo19: [webpack 开发模式和生产模式](https://github.com/SimpleCodeCX/simple-webpack-demos/tree/master/demo19-dev-prod)
 
 
+### 6.源码地址
+https://github.com/SimpleCodeCX/simple-webpack-demos
+
+### 7.关于作者
+* GitHub: https://github.com/SimpleCodeCX
+* 个人博客: http://www.cxdsimple.com 
+* 个人线上简历: http://www.cxdsimple.com/cv/
+* Email: 248200851@qq.com

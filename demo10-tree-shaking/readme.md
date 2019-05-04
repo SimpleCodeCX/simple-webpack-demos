@@ -82,5 +82,9 @@ webpack
 
 说明 Tree Shaking 生效了。
 
+### 7.源码地址
+demo 代码地址: https://github.com/SimpleCodeCX/simple-webpack-demos/tree/master/demo10-tree-shaking
+
+仓库代码地址(及目录): https://github.com/SimpleCodeCX/simple-webpack-demos
 
 参考文档：[tree shaking](https://www.webpackjs.com/guides/tree-shaking/)
